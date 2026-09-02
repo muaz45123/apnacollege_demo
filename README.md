@@ -1,4 +1,4 @@
 # apnacollege_demo
 This is my first Git Repository.
 <br>
-Author_Shradha Khapra
+Author_Shradha Khapra(Apna College)
